@@ -1,74 +1,19 @@
-<!-- # html-css-git-mini-1
-Mini-Project #1 for HTML, CSS, Git, creating a contact form landing page -->
-# <Your-Project-Title>
+# html-css-git-mini-1
 
 ## Description
+Mini-Project #1 for HTML, CSS, Git, creating a contact form landing page
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This project was built to give my work a basic landing page, which will give my later portfolio a bit more meat to show the work that I've been completing throughout coding bootcamp. Through the process of this project, I learned how to build a basic html and css stylesheet from scratch, how to implement pieces I've learned through the first module such as forms, and how to make sure the website still includes accessibility and media screen features for easier accessibility of the website.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Deployed application: https://jskelly8.github.io/html-css-git-mini-1/ 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot of mini-project webpage](./assets/html-mini-proj.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+README template used from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide edX Boot Camps LLC. (2022, October 27). Professional readme guide. Professional README Guide | The Full-Stack Blog. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-<!-- README template used from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide edX Boot Camps LLC. (2022, October 27). Professional readme guide. Professional README Guide | The Full-Stack Blog. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide -->
-
-<!-- Photo used from free-to-use photo library site:
-Mary. (n.d.). Free stock photos from Mary - StockSnap.io. StockSnap. Retrieved October 24, 2023, from https://stocksnap.io/author/marymaaret -->
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Photo used from free-to-use photo library site:
+Mary. (n.d.). Free stock photos from Mary - StockSnap.io. StockSnap. Retrieved October 24, 2023, from https://stocksnap.io/author/marymaaret 

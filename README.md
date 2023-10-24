@@ -44,6 +44,9 @@ If you followed tutorials, include links to those here as well.
 
 <!-- README template used from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide edX Boot Camps LLC. (2022, October 27). Professional readme guide. Professional README Guide | The Full-Stack Blog. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide -->
 
+<!-- Photo used from free-to-use photo library site:
+Mary. (n.d.). Free stock photos from Mary - StockSnap.io. StockSnap. Retrieved October 24, 2023, from https://stocksnap.io/author/marymaaret -->
+
 ## License
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).

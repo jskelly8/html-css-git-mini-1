@@ -1,37 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact us!</title>
 </head>
+
 <body>
     <!-- Header nav bar -->
     <header>
         <nav>
             <ul>
-                <li>GitHub</li>
-                <li>Portfolio</li>
-                <li>Contact</li>
+                <li><a href="https://github.com/jskelly8">GitHub</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#Contact">Contact</a></li>
             </ul>
         </nav>
     </header>
+
     <!-- Centered photo with page title -->
     <main>
-        <h1></h1>
-        <img>
-        <p></p>
+        <h1>My new website</h1>
+        <figure>
+            <img src="" alt="">
+            <figcaption>**caption**</figcaption>
+        </figure>
+        <p>
+            Thank you for coming to my new landing page! The links in the header will bring you to my GitHub profile, my Portfolio website, and the form below to enter your contact info for me to reach back out to you.
+            <br>
+            **Currently the contact form does not actually send info.
+        </p>
     </main>
+
     <!-- Contact form -->
-    <section>
-        <h2></h2>
+    <section id="Contact">
+        <h2>Contact me</h2>
         <form>
-            
+            <P>
+                <label for="username">Name:</label>
+                <input id="username" type="text" placeholder="First Last" />
+            </P>
+            <P>
+                <label for="email">Email:</label>
+                <input id="email" type="text" placeholder="me@example.com" />
+            </P>
+            <p>
+                <input type="submit" value="Send">
+            </p>
         </form>
     </section>
     <!-- copyright -->
     <footer>
-        <p></p>
+        © 2023 My New Website Productions
     </footer>
 </body>
+
 </html>

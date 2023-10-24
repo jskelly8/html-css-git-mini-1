@@ -6,13 +6,18 @@
 
 /* Element Selectors */
 body {
-    position: ;
+    position: relative;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
     font-size: 20px;
     background-color: #ABB2B9;
     color: #1C2833 ;
 }
 
+body p {
+    margin: 5px;
+}
+
+/* Header styling */
 header, footer {
     height: 60px;
     width: 100%;
@@ -34,8 +39,10 @@ li {
 li a {
     text-decoration: none;
     color: #f5b5e1;
+    font-size: 20px;
 }
 
+/* Main section styling */
 main {
     padding: 60px 0;
 }
@@ -50,8 +57,8 @@ figure {
 
 img {
     display: block;
-    margin: 20px auto;
-    width: 200px;
+    margin: 20px auto 0;
+    width: 400px;
 }
 
 a {
@@ -60,6 +67,7 @@ a {
     color: #1C2833;
 }
 
+/* Contact form styling */
 section {
     margin-bottom: 0;
     padding: 20px 10px 40px 10px;
@@ -77,7 +85,7 @@ form {
 
 label {
     display: inline-block;
-    width: 100px;
+    width: 60px;
 }
 
 input {
@@ -87,25 +95,27 @@ input {
 }
 
 button {
+    margin-top: 5px;
     height: 40px;
     width: 120px;
     background-color: #1c2833;
     color: #f5b5e1;
 }
 
+/* Footer styling */
 footer {
-    position: absolute;
-    margin-top: 0;
+    position: relative;
     bottom: 0;
     border-bottom: 10px solid#f5b5e1;
     color: #1c2833;
 }
 
-/* Class Selectors */
+/* Class Selector allowing all text sections except Header to be aligned in the center*/
 .text-center {
     text-align: center;
 }
 
+/* Class Selector allowing just the header text to be aligned to the right */
 .text-right {
     text-align: right;
 }

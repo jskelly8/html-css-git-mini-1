@@ -9,8 +9,8 @@ body {
     position: relative;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
     font-size: 20px;
-    background-color: #ABB2B9;
-    color: #1C2833 ;
+    background-color: #d4d4d4;
+    color: #454545 ;
 }
 
 body p {
@@ -22,12 +22,12 @@ header, footer {
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background-color: #616a6b;
+    background-color: #949494;
 }
 
 header {
     position: fixed;
-    border-bottom: 10px solid#f5b5e1;
+    border-bottom: 10px solid#ffb3ff;
 }
 
 li {
@@ -38,7 +38,7 @@ li {
 
 li a {
     text-decoration: none;
-    color: #f5b5e1;
+    color: #ffb3ff;
     font-size: 20px;
 }
 
@@ -64,22 +64,22 @@ img {
 a {
     font-size: smaller;
     text-decoration: none;
-    color: #1C2833;
+    color: #454545;
 }
 
 /* Contact form styling */
 section {
     margin-bottom: 0;
     padding: 20px 10px 40px 10px;
-    border-top: 3px solid#f5b5e1;
-    background-color: #f5b5e1;
+    border-top: 3px solid#ffb3ff;
+    background-color: #ffb3ff;
 }
 
 form {
     margin: 0 auto;
     width: 500px;
     padding: 10px;
-    border: 5px solid#616a6b;
+    border: 5px solid#949494;
     border-radius: 20px;
 }
 
@@ -91,23 +91,23 @@ label {
 input {
     box-sizing: border-box;
     width: 300px;
-    border: 1px solid#616a6b;
+    border: 1px solid#949494;
 }
 
 button {
     margin-top: 5px;
     height: 40px;
     width: 120px;
-    background-color: #1c2833;
-    color: #f5b5e1;
+    background-color: #454545;
+    color: #ffb3ff;
 }
 
 /* Footer styling */
 footer {
     position: relative;
     bottom: 0;
-    border-bottom: 10px solid#f5b5e1;
-    color: #1c2833;
+    border-bottom: 10px solid#ffb3ff;
+    color: #454545;
 }
 
 /* Class Selector allowing all text sections except Header to be aligned in the center*/
